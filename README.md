@@ -7,7 +7,7 @@
 
 
 """
-jieba
+jieba[github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/jieba/jieba.md]
 ========
 基本功能：
 1. 分词,并行分词,词性标注
@@ -18,7 +18,7 @@ jieba
 6. 命令行分词
 
 ------------------------------------------------
-# FoolNLTK中文处理工具包
+# FoolNLTK中文处理工具包[github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/fool/FoolNLTK.md]
 =========
 1. 分词，词性标注
 2. 实体识别
@@ -27,12 +27,12 @@ jieba
 5. 批量处理
 
 ------------------------------------------------
-# pkuseg：
+# pkuseg：[github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/pkuseg/pkuseg.md]
 ==========
 支持细分领域分词
 
 ------------------------------------------------
-# pyhanlp: Python interfaces for HanLP
+# pyhanlp: Python interfaces for HanLP[github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/pyhanlp/pyhanlp.md]
 ========
 - 分词
 - 自定义词典
@@ -46,7 +46,7 @@ jieba
 
 
 ------------------------------------------------
-pyltp：Python interfaces for LTP
+pyltp：Python interfaces for LTP[github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/pyltp/pyltp.md]
 ==========
 分句
 分词
@@ -55,10 +55,9 @@ pyltp：Python interfaces for LTP
 依存句法分析
 语义角色标注
 
-
 ------------------------------------------------
 
-# SnowNLP: Simplified Chinese Text Processing
+# SnowNLP: Simplified Chinese Text Processing[github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/snownlp/snownlp.md]
 ==============
 * 中文分词
 * 词性标注
@@ -74,7 +73,7 @@ pyltp：Python interfaces for LTP
 
 
 ------------------------------------------------
-# THULAC：一个高效的中文词法分析工具包
+# THULAC：一个高效的中文词法分析工具包[github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/thulac/thulac.md]
 中文分词
 词性标注
 """
