@@ -7,8 +7,9 @@
 
 
 """
-jieba[github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/jieba/jieba.md]
+jieba
 ========
+([github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/jieba/jieba.md])
 基本功能：
 1. 分词,并行分词,词性标注
 2. 添加自定义词典
@@ -18,8 +19,9 @@ jieba[github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/l
 6. 命令行分词
 
 ------------------------------------------------
-# FoolNLTK中文处理工具包[github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/fool/FoolNLTK.md]
+# FoolNLTK中文处理工具包
 =========
+([github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/fool/FoolNLTK.md])
 1. 分词，词性标注
 2. 实体识别
 3. 用户自定义词典
@@ -27,13 +29,15 @@ jieba[github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/l
 5. 批量处理
 
 ------------------------------------------------
-# pkuseg：[github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/pkuseg/pkuseg.md]
+# pkuseg：
 ==========
+([github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/pkuseg/pkuseg.md])
 支持细分领域分词
 
 ------------------------------------------------
-# pyhanlp: Python interfaces for HanLP[github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/pyhanlp/pyhanlp.md]
+# pyhanlp: Python interfaces for HanLP
 ========
+([github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/pyhanlp/pyhanlp.md])
 - 分词
 - 自定义词典
 - 极速词典分词
@@ -46,8 +50,9 @@ jieba[github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/l
 
 
 ------------------------------------------------
-pyltp：Python interfaces for LTP[github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/pyltp/pyltp.md]
+pyltp：Python interfaces for LTP
 ==========
+([github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/pyltp/pyltp.md])
 分句
 分词
 词性标注
@@ -57,7 +62,9 @@ pyltp：Python interfaces for LTP[github.com/Bigmai-1234/zh_process_frame/blob/m
 
 ------------------------------------------------
 
-# SnowNLP: Simplified Chinese Text Processing[github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/snownlp/snownlp.md]
+# SnowNLP: Simplified Chinese Text Processing
+===========
+([github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/snownlp/snownlp.md])
 ==============
 * 中文分词
 * 词性标注
@@ -73,7 +80,9 @@ pyltp：Python interfaces for LTP[github.com/Bigmai-1234/zh_process_frame/blob/m
 
 
 ------------------------------------------------
-# THULAC：一个高效的中文词法分析工具包[github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/thulac/thulac.md]
+# THULAC：一个高效的中文词法分析工具包
+===========
+([github.com/Bigmai-1234/zh_process_frame/blob/master/zh_process_frame_git/lan_proc_pkgs/thulac/thulac.md])
 中文分词
 词性标注
 """
